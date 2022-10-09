@@ -13,7 +13,7 @@ https://christophm.github.io/interpretable-ml-book/
 # Topological data analysis
 http://www.datascienceassn.org/sites/default/files/Topological%20Data%20Analysis.pdf
 
-#Dimensionality reduction 
+# Dimensionality reduction 
 ## PCA
 ## LPP
 ## t-SNE
