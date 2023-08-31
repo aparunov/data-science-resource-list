@@ -1,8 +1,12 @@
-# data-science-resource-list
-List of resouces for the advanced topics in data science
+# Data Science Resource List
+List of resouces for the advanced topics in data science. 
 
 ## Machine learning theory
-https://arxiv.org/pdf/2004.09280.pdf
+Statistical physics-inspired approach to deep learning theory: https://arxiv.org/pdf/2004.09280.pdf
+Effective theory of deep learning: https://arxiv.org/pdf/2106.10165.pdf
+
+## List of usefull Kaggle notebooks
+https://www.kaggle.com/code/headsortails/hidden-gems-a-collection-of-underrated-notebooks
 
 ## Variational inference
 https://arxiv.org/pdf/2103.01327.pdf
