@@ -11,9 +11,7 @@ Implicit gradient regularization: https://proceedings.mlr.press/v162/zhao22i/zha
 
 Gradient regularization: https://arxiv.org/pdf/1712.09936.pdf
 
-Gradient reversal layer: 
-
-https://arxiv.org/pdf/1409.7495.pdf
+Gradient reversal layer: https://arxiv.org/pdf/1409.7495.pdf.
 
 One epoch overfitting phenomenon: 
 https://arxiv.org/pdf/2305.19531.pdf
