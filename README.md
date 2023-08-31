@@ -24,16 +24,22 @@ https://www.kaggle.com/code/headsortails/hidden-gems-a-collection-of-underrated-
 Guide to variational inference: https://arxiv.org/pdf/2103.01327.pdf.
 
 ## Feature engineering 
-https://bookdown.org/max/FES/
+https://bookdown.org/max/FES/.
+
+## MLOPs
+Infrastructure: 
+https://fullstackdeeplearning.com/spring2021/lecture-6/.
 
 ## Interpretable AI
-https://christophm.github.io/interpretable-ml-book/
+https://christophm.github.io/interpretable-ml-book/.
 
 ## Topological data analysis
-http://www.datascienceassn.org/sites/default/files/Topological%20Data%20Analysis.pdf
+http://www.datascienceassn.org/sites/default/files/Topological%20Data%20Analysis.pdf.
 
 ## Dimensionality reduction 
 ### PCA
 ### LPP
 ### t-SNE
 ### UMAP
+Paper: https://arxiv.org/pdf/1802.03426.pdf.
+Library: https://umap-learn.readthedocs.io/en/latest/.
