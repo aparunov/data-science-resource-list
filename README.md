@@ -1,6 +1,9 @@
 # data-science-resource-list
 List of resouces for the advanced topics in data science
 
+## Machine learning theory
+https://arxiv.org/pdf/2004.09280.pdf
+
 ## Variational inference
 https://arxiv.org/pdf/2103.01327.pdf
 
