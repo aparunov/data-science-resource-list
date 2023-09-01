@@ -1,5 +1,6 @@
 # Data Science Resource List
 List of resouces for the advanced topics in data science. 
+The list comprises of resources I found usefull or interesting during my work. 
 
 ## Machine learning theory
 Statistical physics-inspired approach to deep learning theory: https://arxiv.org/pdf/2004.09280.pdf.
@@ -16,6 +17,9 @@ Gradient reversal layer: https://arxiv.org/pdf/1409.7495.pdf.
 One epoch overfitting phenomenon: 
 https://arxiv.org/pdf/2305.19531.pdf,
 https://arxiv.org/pdf/2209.06053.pdf.
+
+## Online advertising
+https://arxiv.org/pdf/2101.02342.pdf
 
 ## List of usefull Kaggle notebooks
 https://www.kaggle.com/code/headsortails/hidden-gems-a-collection-of-underrated-notebooks
