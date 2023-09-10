@@ -41,9 +41,6 @@ https://christophm.github.io/interpretable-ml-book/.
 http://www.datascienceassn.org/sites/default/files/Topological%20Data%20Analysis.pdf.
 
 ## Dimensionality reduction 
-### PCA
-### LPP
-### t-SNE
 ### UMAP
 Paper: https://arxiv.org/pdf/1802.03426.pdf.
 Library: https://umap-learn.readthedocs.io/en/latest/.
